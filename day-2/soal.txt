@@ -1,0 +1,10 @@
+Association Rules
+1. Munculkan jumlah order yang support count nya > 3
+
+Clustering
+1. Lakukan query untuk memunculkan barang yang diberli setiap order,
+rata-rata pembelian, jumlah pembelian dalam satu bulan
+
+BPM/Data Warehouse/Viz
+1. Lakukan fungsi agregat pada tabel order/order detail
+yang bisa dijalankan dan buat grafiknya.
